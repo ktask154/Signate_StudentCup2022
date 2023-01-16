@@ -19,4 +19,8 @@ F1score （マクロ平均）
 - StratifiedKFold(jobflag) Fold=5
 - CrossEntropyLoss
 - AdamW
-- 
+- Pooler Output
+  - Mean Pooling
+  - Attention Pooling
+- epoch : 10
+
