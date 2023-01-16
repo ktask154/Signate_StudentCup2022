@@ -8,6 +8,7 @@
 ### 評価関数
 F1score （マクロ平均）
 
+</br>
 
 ## Models
 - Deberta-v3-large
@@ -15,7 +16,9 @@ F1score （マクロ平均）
 - Deberta-large
 - RoberTa-large
 
-## work
+</br>
+
+## Work
 - Resolve encoding error
 - htmlタグの除去
 - 重複データの除去
@@ -29,7 +32,9 @@ F1score （マクロ平均）
 - stacking(LGBM,CTB,logistic)
 - 最頻値でアンサンブル
 
-## result
+</br>
+
+## Result
 ### 最終提出
 5 / 221  位（繰り上げで3位入賞）
 
