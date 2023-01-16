@@ -29,4 +29,20 @@ F1score （マクロ平均）
 - stacking(LGBM,CTB,logistic)
 - 最頻値でアンサンブル
 
-## 
+## result
+### 最終提出
+5 / 221  位（繰り上げで3位入賞）
+
+public LB : 0.762
+
+private LB : 0.755
+</br>
+</br>
+### ベストシングルモデル(exp20)
+ cv : 0.730 
+ 
+ public LB : 0.750
+ 
+ private LB : 0.759
+
+
