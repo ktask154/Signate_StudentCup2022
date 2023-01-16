@@ -16,6 +16,9 @@ F1score （マクロ平均）
 - RoberTa-large
 
 ## work
+- Resolve encoding error
+- htmlタグの除去
+- 重複データの除去
 - StratifiedKFold(jobflag) Fold=5
 - CrossEntropyLoss
 - AdamW
@@ -23,4 +26,7 @@ F1score （マクロ平均）
   - Mean Pooling
   - Attention Pooling
 - epoch : 10
+- stacking(LGBM,CTB,logistic)
+- 最頻値でアンサンブル
 
+## 
